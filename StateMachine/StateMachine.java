@@ -1,8 +1,9 @@
 /*
- * Small state machine that prints 1 only after seeing the pattern 110, 
- *   otherwise a 0 is printed. 
- * 2015 - 03 - 25
- * Brittany Postnikoff
+ * CLASS:       StateMachine
+ * AUTHOR:      Brittany Postnikoff
+ * LAST UPDATE: 2015 - 03 - 25
+ * PURPOSE:     Small state machine that prints 1 only after seeing the pattern 110, 
+ *                otherwise a 0 is printed. 
  */
 
 import java.util.*;

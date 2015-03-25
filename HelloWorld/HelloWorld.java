@@ -1,5 +1,8 @@
-//Hello World program
-//2015 - 03 - 16
+/*
+ * CLASS:  HelloWorld
+ * AUTHOR: Brittany Postnikoff
+ * LAST UPDATE: 2015 - 03 - 25
+ */
 
 import java.util.*;
 
