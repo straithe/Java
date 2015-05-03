@@ -1,6 +1,6 @@
 /**
  * Author:      Brittany Postnikoff
- * Date:        April 3, 2015
+ * Date:        May 3, 2015
  * Project:     Rosalind
  * Current Doc: Counting Nucleotides
  * Description: This program takes a DNA string and
