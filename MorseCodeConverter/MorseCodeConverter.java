@@ -30,6 +30,8 @@ public class MorseCodeConverter
   public static String morseToString(String morse)
   {
     String sentence = "";
+    String[] parts = morse.split("/");
+
     return sentence;
   }
   
