@@ -1,8 +1,8 @@
 /**************************************************************************
  * DOCUMENT:	Prolog Pokedex
- * AUTHOR:		Brittany Postnikoff
- * CREATED:		2014-11-24
- * UPDATED:		2015-02-03
+ * AUTHOR:	Brittany Postnikoff
+ * CREATED:	2014-11-24
+ * UPDATED:	2015-02-03
  * PURPOSE:	An expert system to operate like a Pokedex from
  *		  the Pokemon universe.
  * CHANGES:	1, Uploaded previous work
